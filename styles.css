@@ -1,5 +1,5 @@
 .container{
-    width: 100%;
+    margin: auto;
     max-width: 1440px;
     display: grid;
     grid-gap: 1em;
@@ -34,10 +34,4 @@
         grid-column: auto;
     }
     
-}
-
-.center{
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
